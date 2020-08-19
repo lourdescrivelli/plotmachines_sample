@@ -1,7 +1,7 @@
 # plotmachines_sample
-Testing Reproducibility of PlotMachines Paper
+Testing Reproducibility of PlotMachines Paper (https://arxiv.org/abs/2004.14967)
 
-Custom preprocessing for the PlotMachines Paper . Original code and paper can be found at: https://github.com/hrashkin/plotmachines  
+Custom preprocessing for the PlotMachines Paper . Original code can be found at: https://github.com/hrashkin/plotmachines  
 
 What is different?  
 The original paper uses Wikiextractor. Currently, there seems to be a bug with this repository, so I was unable to reproduce the original data.  
