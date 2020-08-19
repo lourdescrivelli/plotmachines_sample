@@ -1,4 +1,5 @@
-# 0 - Import Libraries
+# The code produces a sample of 1000 plots. If you would like more, please change the amount_to_save variable in line 165
+# 0 - Import Libraries1
 from sklearn.feature_extraction.text import TfidfVectorizer
 import numpy as np
 from rake_nltk import Rake
