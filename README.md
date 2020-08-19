@@ -14,4 +14,4 @@ Since there is no concept of paragraphs in the sample database, I added a custom
 The original [extract_outlines.py] can be found at : https://github.com/hrashkin/plotmachines/blob/master/src/preprocessing/extract_outlines.py  
 
 #### Pickle function
-Adds the last step for preprocessing, currently missing form the original code
+Adds the last step for preprocessing, currently missing form the original code. To run this code you will need the [model.py] function from the original repository. https://github.com/hrashkin/plotmachines/blob/master/src/model/model.py
